@@ -30,6 +30,10 @@ This Python script serves as a document assistant that allows you to perform var
    pip install wikipedia
    pip install docx
    ```
+3. **Run:**
+   ```bash
+   python Document_Bot.py
+   ```
 
 ## Usage
 
