@@ -25,17 +25,9 @@ This Python script serves as a document assistant that allows you to perform var
 2. **Install Dependency:**
    ```bash
    pip install speech_recognition
-   ```
-   ```bash
    pip install pyttsx3
-   ```
-   ```bash
    pip install pyautogui
-   ```
-   ```bash
    pip install wikipedia
-   ```
-   ```bash
    pip install docx
    ```
 
