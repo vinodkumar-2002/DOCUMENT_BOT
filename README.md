@@ -66,5 +66,4 @@ This Python script serves as a document assistant that allows you to perform var
 ## Author
 
 - Vinod Kumar Bhanaram
-- Jaikishan Gehlot
-- Sandeep Singh
+
