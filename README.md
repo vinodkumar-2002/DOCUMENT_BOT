@@ -16,6 +16,13 @@ This Python script serves as a document assistant that allows you to perform var
   - wikipedia
   - docx
 
+## Instalation
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/yourusername/document-assistant.git
+   cd document-assistant
+   ```
+
 ## Usage
 
 1. Run the script by executing `python document_Bot.py` in your terminal or command prompt.
