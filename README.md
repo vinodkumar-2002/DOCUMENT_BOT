@@ -19,8 +19,24 @@ This Python script serves as a document assistant that allows you to perform var
 ## Instalation
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/document-assistant.git
-   cd document-assistant
+   git clone https://github.com/vinodkumar-2002/DOCUMENT_BOT.git
+   cd Document-Bot
+   ```
+2. **Install Dependency:**
+   ```bash
+   pip install speech_recognition
+   ```
+   ```bash
+   pip install pyttsx3
+   ```
+   ```bash
+   pip install pyautogui
+   ```
+   ```bash
+   pip install wikipedia
+   ```
+   ```bash
+   pip install docx
    ```
 
 ## Usage
