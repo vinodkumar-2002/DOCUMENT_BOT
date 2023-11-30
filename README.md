@@ -1,6 +1,6 @@
 # Document Bot
 
-Welcome to Document Assistant, your speech-to-text and text-to-speech document bot assistant.
+Welcome to Document Bot, your speech-to-text and text-to-speech document bot assistant.
 
 ## Overview
 
