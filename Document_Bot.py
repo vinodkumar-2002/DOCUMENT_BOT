@@ -93,14 +93,14 @@ def read(file_path):
 
 if __name__ == "__main__":
     speak("welcome i am your document bot assistent you can call me jvs")
-    '''time.sleep(1)
+    time.sleep(1)
     speak("i help you in convertion of speech to text and write it in a document")
     time.sleep(1)
     speak("i can accept english language")
     time.sleep(1)
     speak("opening ms word")
     time.sleep(1)
-    speak("say command start writing to start the process")'''
+    speak("say command start writing to start the writing process")
     document_name=None
     while True:
         print("listenning cmd...")
